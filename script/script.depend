@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1666720887 source:c:\users\usuario\desktop\ada\script\main.cpp
+	<iostream>
+	<horse.h>
+	<nqueens.h>
+	<insertionsort.h>
+
+1666720887 c:\users\usuario\desktop\ada\script\include\horse.h
+	<iostream>
+	<ctime>
+
+1666639655 source:c:\users\usuario\desktop\ada\script\src\horse.cpp
+
+1666639709 source:c:\users\usuario\desktop\ada\script\src\nqueens.cpp
+
+1666720936 c:\users\usuario\desktop\ada\script\include\nqueens.h
+	<iostream>
+	<ctime>
+
+1666659758 source:c:\users\usuario\desktop\ada\script\src\insertionsort.cpp
+
+1666719934 c:\users\usuario\desktop\ada\script\include\insertionsort.h
+
